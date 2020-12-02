@@ -1,0 +1,9 @@
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\obj\Debug\netstandard2.0\MedicalExpress.CORE.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\obj\Debug\netstandard2.0\MedicalExpress.CORE.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\obj\Debug\netstandard2.0\MedicalExpress.CORE.AssemblyInfo.cs
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\bin\Debug\netstandard2.0\MedicalExpress.CORE.deps.json
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\bin\Debug\netstandard2.0\MedicalExpress.CORE.dll
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\bin\Debug\netstandard2.0\MedicalExpress.CORE.pdb
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\obj\Debug\netstandard2.0\MedicalExpress.CORE.dll
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\obj\Debug\netstandard2.0\MedicalExpress.CORE.pdb
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.CORE\obj\Debug\netstandard2.0\MedicalExpress.CORE.csproj.CoreCompileInputs.cache

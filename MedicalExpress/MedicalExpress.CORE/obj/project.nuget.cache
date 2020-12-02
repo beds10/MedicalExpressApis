@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnWmrzCRWMO494cB8dnYluD0jogvwBWUVqzWOuaKfnWuxXikUemqIMDj9F1tvq/rql+6Vet/0Ta5L7edXFtFcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\source\\repos\\MedicalExpress\\MedicalExpress.CORE\\MedicalExpress.CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

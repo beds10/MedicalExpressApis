@@ -1,0 +1,12 @@
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\bin\Debug\netstandard2.0\MedicalExpress.CORE.dll
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\bin\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.deps.json
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\bin\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.dll
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\bin\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.pdb
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\bin\Debug\netstandard2.0\MedicalExpress.CORE.pdb
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.csproj.CopyComplete
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.dll
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.pdb
+C:\Users\brand\source\repos\MedicalExpress\MedicalExpress.INFRASTRUCTURE\obj\Debug\netstandard2.0\MedicalExpress.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
